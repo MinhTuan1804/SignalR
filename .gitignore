@@ -1,0 +1,28 @@
+# Lỗi build và thư mục tạm
+[Oo]bj/
+[Bb]in/
+
+# Thư mục publish do dotnet tạo ra
+publish/
+
+# Tệp người dùng (Visual Studio)
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE/Editor (VS, VS Code, Rider)
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Logs
+*.log
+
+# Môi trường
+appsettings.Development.json
+.env
